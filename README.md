@@ -1,6 +1,6 @@
 
 I’m a iOS Developer with 1+ year experience in Swift.<br>
-My goal is to create apps that people love to use, providing one of the best experiences possible, while ensuring the highest level of accessibility.
+My purpose is to become a true Senior iOS Engineer, create apps that people love to use, providing one of the best experiences possible, while ensuring the highest level of accessibility.
 
 
 
