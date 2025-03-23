@@ -1,6 +1,6 @@
 
 I’m a iOS Developer with 1+ year experience in Swift.<br>
-My purpose is to create apps that people just love to use.
+My goal is to create apps that people love to use, providing one of the best experiences possible, while ensuring the highest level of accessibility.
 
 
 
