@@ -1,6 +1,4 @@
 
-I’m a iOS Developer with 1+ year experience in Swift.<br>
-My purpose is to become a true Senior iOS Engineer, create apps that people love to use, providing one of the best experiences possible, while ensuring the highest level of accessibility.
 
 
 
@@ -28,4 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I’m a iOS Developer with 1+ year experience in Swift.<br>
+My purpose is to become a true Senior iOS Engineer, create apps that people love to use, providing one of the best experiences possible, while ensuring the highest level of accessibility.
+
 -->
